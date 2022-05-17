@@ -30,7 +30,7 @@ qbittorrent:
 ```
 
 2. Go to Settings -> WEBUI, check `Use alternative Web UI` and enter its location `/qbit-matui`, then save.
-   <img src="https://user-images.githubusercontent.com/31634638/128675722-7abbc91f-4b2e-4d67-a356-9693b51754e0.png" />
+   <img src="https://user-images.githubusercontent.com/15198431/168888606-e5c42f88-30e1-48f2-b43e-2ab98807df96.png" />
 
 ## Sources
 

@@ -3,7 +3,7 @@ name: Build Image
 on: [push, pull_request, workflow_dispatch]
 
 env:
-  ENDPOINT: "arafatamim/linuxserver-io-mod-vuetorrent"
+  ENDPOINT: "marzzzello/linuxserver-io-mod-qbit-matui"
   BRANCH: "main"
 
 jobs:

@@ -8,7 +8,7 @@ Source: https://github.com/bill-ahmed/qbit-matUI
 EOF
 
 LATEST_RELEASE=$(curl -s -L https://api.github.com/repos/bill-ahmed/qbit-matUI/releases/latest |
-  grep "browser_download_url.*zip" |
+  grep "browser_download_url.*Unix.*zip" |
   cut -d : -f 2,3 |
   tr -d \" |
   xargs) # to trim whitespace
